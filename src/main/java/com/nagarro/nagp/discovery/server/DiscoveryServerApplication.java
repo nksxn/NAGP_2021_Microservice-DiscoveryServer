@@ -1,4 +1,4 @@
-package org.selflearning.msa.discovery.server;
+package com.nagarro.nagp.discovery.server;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -13,7 +13,7 @@
 	<artifactId>discoveryServer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>discoveryServer</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Discovery server for NAGP 2021</description>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
